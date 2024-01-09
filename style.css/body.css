@@ -1,0 +1,189 @@
+.offer{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.deal{
+    color: #F00;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 26px;
+    margin-top: 0px;
+    margin: auto;
+}
+
+.catagories{
+    color: #070211;
+    text-align: center;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 750;
+    line-height: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 120px;
+    margin-top: 2px;
+}
+
+.new{
+width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+margin: auto;
+margin-bottom: 120px;
+
+}
+
+.vector{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position:relative;
+    margin-bottom: 120px;
+
+}
+
+.vector h2{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    padding: 64px 88px;
+    margin-bottom: 0px;
+}
+
+.vector h6{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 697px;
+padding: 326 497 214 126;
+margin-left: 45px;
+margin-top: 0px;
+}
+
+.vector button{
+   background-color: transparent;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF; 
+    margin-left: 45px;
+    
+
+}
+
+.location{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: rgb(236, 227, 217);
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    padding-top: 15px;
+    margin-bottom: 120px;
+}
+
+#place {
+    font-weight: 800px;
+    color: #F00;
+}
+#time {
+    font-weight: 800px;
+    color: #F00;
+ 
+}
+#date {
+    font-weight: 800px;
+    color: #F00;
+}
+
+.text{
+    text-align: center;
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 70px 35px;
+}
+
+.location button {
+
+    display: inline-flex;
+    padding: 16px  20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    margin-left: 600px;
+    font-weight: 900;
+}
+
+
+.newbestoffer{
+    background-color: #e8e8e8;
+    justify-content: center;
+    margin: auto;
+    width: 1320px;
+    height: 463px;
+
+}
+
+.newbestoffer h3{
+    color: #F00;
+text-align: left;
+font-size: 18px;
+font-weight: 500;
+line-height: normal;
+margin-left: 10px;
+margin-bottom: 2px;
+}
+.newbestoffer h2{
+    color: #070211;
+font-size: 48px;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+text-align: left;
+margin-left: 10px;
+margin-top: 2px;
+margin-bottom: 0;
+}
+
+.newbestoffer p{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 12px;
+font-weight: 400;
+line-height: 18px; 
+width: 300px;
+margin-left: 10px;
+margin-top: 6px;
+}
+
+.newbestoffer .left-text{
+    padding: 150px 200px 20px 2px;
+}

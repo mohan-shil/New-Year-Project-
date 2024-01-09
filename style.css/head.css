@@ -1,0 +1,30 @@
+.photo {
+    width: 1320px;
+    height: 600px;
+    background-image: url('../resources/Banner\ Image.png');   
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    margin: auto;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    
+}
+.photo h4 {
+
+    color:  rgb(252, 244, 8);
+    text-align: center;
+    padding: 100px 344px 0px 344px;
+    font-size: 40px;
+    font-weight: 400px;
+    margin-bottom: 0;
+}
+
+.photo h2 {
+color: #ffffff;
+text-align: center;
+font-size: 70px;
+font-weight: 900;   
+margin-top: 0px;
+
+} 
