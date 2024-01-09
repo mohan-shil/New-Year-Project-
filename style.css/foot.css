@@ -1,8 +1,20 @@
 footer{
     background-color: black;
-    width: 1600px;
-    height: 609px;
+    height: 609PX;
     flex-shrink: 0;
-    margin: auto;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 120PX;
     
 }
+
+footer .footer .logo-call{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 200;
+line-height: 40px;
+}
+

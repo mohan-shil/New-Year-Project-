@@ -145,7 +145,7 @@ margin-top: 0px;
 
 
 .newbestoffer{
-    background-color: #e8e8e8;
+    background-color: #FFF;
     justify-content: center;
     margin: auto;
     width: 1320px;
@@ -187,3 +187,132 @@ margin-top: 6px;
 .newbestoffer .left-text{
     padding: 150px 200px 20px 2px;
 }
+
+.functions{
+    background-color: #FFF;
+    width: 1320px;
+    height:200px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 180px;
+    margin-top: 120px;
+}
+
+.functions h3{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+margin-bottom: 2px;
+}
+
+#red{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+}
+
+.functions h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.functions p{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: auto;
+    
+}
+
+.gifts{
+
+    background-color: #FFF;
+    width: 1320px;
+    height:200px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.gifts h4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 2px;
+}
+
+.gifts h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 2px;
+
+}
+
+.gifts p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
+
+.images{
+    width: 1320px;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 420px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  .grid-item {
+    overflow: hidden;
+  }
+  
+  .grid-item img {
+    width: 100%; 
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .grid-item:hover img {
+    transform: scale(1.1);
+  }
+  
